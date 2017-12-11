@@ -1,0 +1,8 @@
+C:\Users\ALex\AppData\Local\Temporary Projects\ConsoleCalcC\bin\Debug\ConsoleCalcC.exe.config
+C:\Rabota\VS\calc\ConsoleCalcC\ConsoleCalcC\bin\Debug\ConsoleCalcC.exe.config
+C:\Rabota\VS\calc\ConsoleCalcC\ConsoleCalcC\bin\Debug\ConsoleCalcC.exe
+C:\Rabota\VS\calc\ConsoleCalcC\ConsoleCalcC\bin\Debug\ConsoleCalcC.pdb
+C:\Rabota\VS\calc\ConsoleCalcC\ConsoleCalcC\obj\Debug\ConsoleCalcC.exe
+C:\Rabota\VS\calc\ConsoleCalcC\ConsoleCalcC\obj\Debug\ConsoleCalcC.pdb
+C:\Rabota\VS\calc\ConsoleCalcC\ConsoleCalcC\obj\Debug\ConsoleCalcC.csproj.CoreCompileInputs.cache
+C:\Rabota\VS\calc\ConsoleCalcC\ConsoleCalcC\obj\Debug\ConsoleCalcC.csprojResolveAssemblyReference.cache
